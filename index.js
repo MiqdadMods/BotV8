@@ -28,7 +28,7 @@ const config = {
     waktu: time
 }
 
-const { MIQDAD MODS , tanggal, waktu, instagram, whatsapp, youtube, nomer, aktif, ontime } = config
+
 
 const
 {
